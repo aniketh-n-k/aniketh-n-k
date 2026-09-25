@@ -76,7 +76,7 @@ I'm a Computer Science undergraduate at **Srinivas University**, passionate abou
 |---|---|---|
 | [portfolio](https://github.com/aniketh-n-k/portfolio) | Personal portfolio website | HTML |
 | [Hotel-Booking-System-](https://github.com/aniketh-n-k/Hotel-Booking-System-) | Hotel booking system project | — |
-| [data-science-](https://github.com/aniketh-n-k/data-science-) | Data science coursework & projects | — |
+| [data-science-](https://github.com/aniketh-n-k/data-science-) | Data science coursework & projects | HTML |
 | [PasswordGenerator](https://github.com/aniketh-n-k/PasswordGenerator) | Java-based password generator tool | Java |
 | [Simple-Calculator](https://github.com/aniketh-n-k/Simple-Calculator) | A simple calculator application | Java |
 | [IBM](https://github.com/aniketh-n-k/IBM) | IBM coursework & certification projects | — |
